@@ -1,0 +1,7 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+nav.navbar ul li a { 
+    color: red !important;
+}
